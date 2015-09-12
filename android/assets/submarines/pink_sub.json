@@ -1,0 +1,8 @@
+{
+   "id" : 2,
+   "name" : "Pink Submarine",
+   "image" : "pinkie",
+   "health" : 3,
+   "speed" : 7,
+   "power" : 28
+}

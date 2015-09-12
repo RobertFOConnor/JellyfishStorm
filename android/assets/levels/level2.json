@@ -1,0 +1,86 @@
+{
+   "id" : 2,
+   "name" : "Wave after wave",
+
+   
+   "waves": [{
+	  "enemyType" : "SHARKIE",
+	  "amount" : 6,
+	  "speed" : 9,
+	  "pattern" : "Straight",
+	  "entry" : "Right",
+	  "position" : 5
+   },
+   
+   {
+	  "enemyType" : "SHARKIE",
+	  "amount" : 6,
+	  "speed" : 9,
+	  "pattern" : "Straight",
+	  "entry" : "Right",
+	  "position" : 1
+   },
+   
+   {
+      "enemyType" : "WHALE",
+	  "amount" : 6,
+	  "speed" : 8,
+	  "pattern" : "Straight",
+	  "entry" : "Right",
+	  "position" : 4
+   },
+   
+   {
+      "enemyType" : "JELLY",
+	  "amount" : 6,
+	  "speed" : 14,
+	  "pattern" : "Diagonal",
+	  "entry" : "Right",
+	  "position" : 4
+   },
+   
+   {
+      "enemyType" : "JELLY",
+	  "amount" : 6,
+	  "speed" : 14,
+	  "pattern" : "Diagonal",
+	  "entry" : "Right",
+	  "position" : 7
+   },
+   
+   {
+      "enemyType" : "WHALE",
+	  "amount" : 6,
+	  "speed" : 8,
+	  "pattern" : "Straight",
+	  "entry" : "Right",
+	  "position" : 2
+   },
+   
+   {
+      "enemyType" : "WHALE",
+	  "amount" : 3,
+	  "speed" : 10,
+	  "pattern" : "Straight",
+	  "entry" : "Right",
+	  "position" : 7
+   },
+   
+   {
+      "enemyType" : "WHALE",
+	  "amount" : 6,
+	  "speed" : 12,
+	  "pattern" : "Straight",
+	  "entry" : "Right",
+	  "position" : 4
+   },
+   
+     {
+      "enemyType" : "SHARKIE",
+	  "amount" : 3,
+	  "speed" : 18,
+	  "pattern" : "Straight",
+	  "entry" : "Right",
+	  "position" : 1
+   }]
+}

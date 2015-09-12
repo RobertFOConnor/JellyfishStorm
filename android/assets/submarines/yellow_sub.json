@@ -1,0 +1,8 @@
+{
+   "id" : 1,
+   "name" : "Yellow Submarine",
+   "image" : "player",
+   "health" : 5,
+   "speed" : 5,
+   "power" : 16
+}

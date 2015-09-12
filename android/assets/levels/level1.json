@@ -1,0 +1,87 @@
+{
+   "id" : 1,
+   "name" : "The Deep Blue",
+
+   
+   "waves": [{
+	  "enemyType" : "WHALE",
+	  "amount" : 3,
+	  "speed" : 8,
+	  "pattern" : "Straight",
+	  "entry" : "Right",
+	  "position" : 2
+   },
+   
+   {
+	  "enemyType" : "SHARKIE",
+	  "amount" : 6,
+	  "speed" : 8,
+	  "pattern" : "Diagonal",
+	  "entry" : "Right",
+	  "position" : 7
+   },
+   
+   {
+      "enemyType" : "JELLY",
+	  "amount" : 4,
+	  "speed" : 14,
+	  "pattern" : "Straight",
+	  "entry" : "Right",
+	  "position" : 4
+   },
+   
+   {
+      "enemyType" : "WHALE",
+	  "amount" : 6,
+	  "speed" : 8,
+	  "pattern" : "Straight",
+	  "entry" : "Right",
+	  "position" : 2
+   },
+   
+   {
+      "enemyType" : "WHALE",
+	  "amount" : 3,
+	  "speed" : 10,
+	  "pattern" : "Straight",
+	  "entry" : "Right",
+	  "position" : 7
+   },
+   
+   {
+      "enemyType" : "WHALE",
+	  "amount" : 6,
+	  "speed" : 12,
+	  "pattern" : "Straight",
+	  "entry" : "Right",
+	  "position" : 4
+   },
+   
+     {
+      "enemyType" : "WHALE",
+	  "amount" : 6,
+	  "speed" : 8,
+	  "pattern" : "Straight",
+	  "entry" : "Right",
+	  "position" : 1
+   },
+   
+   
+   {
+      "enemyType" : "WHALE",
+	  "amount" : 6,
+	  "speed" : 8,
+	  "pattern" : "Straight",
+	  "entry" : "Right",
+	  "position" : 6
+   },
+  
+   {
+      "enemyType" : "BOSS_EEL",
+	  "amount" : 1,
+	  "speed" : 6,
+	  "pattern" : "Boss",
+	  "entry" : "Right",
+	  "position" : 4
+   }]
+}
